@@ -108,7 +108,7 @@ function imprimir(){
    })
 
  botones.addEventListener('click', function() {
-   
+
 
    
     localStorage.setItem('datos', JSON.stringify(task))
