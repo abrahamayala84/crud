@@ -1,0 +1,17 @@
+
+body{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.consolas{
+    color: black important;
+    background-color: rgb(0, 153, 255) important;
+    
+
+}
+
+.container{
+    background-color:red;
+}
